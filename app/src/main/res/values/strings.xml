@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice App</string>
+    <string name="btn">Roll</string>
+    <string name="logo_description">Image View for the logo</string>
+    <string name="left_dice_description">Left Dice</string>
+    <string name="right_dice_description">Right Dice</string>
+    <string name="cp">Designed &amp; Developed by Debajit Deb </string>
+</resources>
